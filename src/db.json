@@ -1,0 +1,52 @@
+{
+  "days": [
+    {
+      "id": 1,
+      "title": "Wed",
+      "date":"22 Dec",
+      "weather": "Clear",
+      "desc":"WNW 19 MPH",
+      "deg":50
+    },
+    {
+      "id": 2,
+      "title": "Thu",
+      "date":"23 Dec",
+      "weather": "Snow",
+      "desc":"NNE 19 MPH",
+      "deg":36
+    },
+    {
+      "id": 3,
+      "title": "Fri",
+      "date":"24 Dec",
+      "weather": "Rain",
+      "desc":"NS 19 MPH",
+      "deg":40
+    },
+    {
+      "id": 4,
+      "title": "Sat",
+      "date":"25 Dec",
+      "weather": "Snow",
+      "desc":"SSW 19 MPH",
+      "deg":43
+    },
+    {
+      "id": 5,
+      "title": "Sun",
+      "date":"26 Dec",
+      "weather": "Rain",
+      "desc":"EEN 19 MPH",
+      "deg":38
+    },
+    {
+      "id": 6,
+      "title": "Mon",
+      "date":"27 Dec",
+      "weather": "Clear",
+      "desc":"WNW 19 MPH",
+      "deg":35
+    }
+  ]
+}
